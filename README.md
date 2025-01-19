@@ -7,8 +7,6 @@ Además, se realizó un CRUD utilizando JAVA y SpringBoot para poder modificar l
 
 [Link](https://giselemilagros88.github.io/cac_movies_javaphp/index#tendencias)
 
-**Autores: **
+<strong>Autores: <strong/>
 - Juan Bautista Ballini: https://github.com/JBBallini
 - Monica Melgarejo: https://github.com/monick96
-
-
